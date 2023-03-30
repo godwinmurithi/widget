@@ -1,0 +1,5 @@
+{
+  "serviceUrl": "https://sampleserver6.arcgisonline.com/arcgis/rest/services/USA/MapServer",
+  "featureLayerUrl": "https://services.arcgis.com/<your-service>/arcgis/rest/services/<your-layer>/FeatureServer/0",
+  "dashboardUrl": "https://<your-dashboard-url>"
+}
